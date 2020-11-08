@@ -15,4 +15,6 @@
 
 第七期视频：https://www.bilibili.com/video/BV1YA411j7jq
 
+第八期视频：https://www.bilibili.com/video/BV1hi4y1L7d2
+
 所有代码均在Python3.6.8下运行测试成功

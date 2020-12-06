@@ -17,4 +17,12 @@
 
 第八期视频：https://www.bilibili.com/video/BV1hi4y1L7d2
 
+第九期视频：https://www.bilibili.com/video/BV18t4y1e7Mv
+
+第十期视频：https://www.bilibili.com/video/BV1mi4y1L7YK
+
+第十一期视频：https://www.bilibili.com/video/BV1Zy4y1i7ka
+
+第十二期视频：https://www.bilibili.com/video/BV15541157sM
+
 所有代码均在Python3.6.8下运行测试成功
